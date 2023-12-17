@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amanchahar123](https://medium.com/@amanchahar123)
 
-- 💬 Ask me about **LCA, AI, Data Science, Python, Power BI, Data Analytics, Machine Learning**
+- 💬 Ask me about **LCA, AI, Data Science, Python, Power BI, Data Analytics, Machine Learning, LangChain**
 
 - 📫 How to reach me **amanchahar123@gmail.com**
 
