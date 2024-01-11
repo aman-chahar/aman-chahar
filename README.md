@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-chahar&label=Profile%20views&color=0e75b6&style=flat" alt="aman-chahar" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **Deep Learning and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/amanchahar](https://linktr.ee/amanchahar)
 
 - 📝 I regularly write articles on [https://medium.com/@amanchahar123](https://medium.com/@amanchahar123)
 
-- 💬 Ask me about **LCA, AI, Data Science, Python, Power BI, Data Analytics, Machine Learning, LangChain**
+- 💬 Ask me about **AIML, NLP, Data Science, Python, Power BI, Data Analytics, Machine Learning, Deep Learning, Generative AI, LLMs, Prompts, LangChain**
 
 - 📫 How to reach me **amanchahar123@gmail.com**
 
