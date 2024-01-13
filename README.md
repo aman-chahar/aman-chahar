@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@amanchahar123](https://medium.com/@amanchahar123)
 
-- 💬 Ask me about **AIML, NLP, Data Science, Python, Power BI, Data Analytics, Machine Learning, Deep Learning, Generative AI, LLMs, Prompts, LangChain**
+- 💬 Ask me about **AIML, NLP, Data Science, Python, Power BI, Data Analytics, Machine Learning, Deep Learning, Generative AI, LLMs, BERT, ChatGPT, YOLO, Prompts, LangChain**
 
 - 📫 How to reach me **amanchahar123@gmail.com**
 
