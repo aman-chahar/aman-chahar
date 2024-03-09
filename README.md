@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, AWS and Generative AI**
 
-- 👨‍💻 All of my project's Portfolio is available at [https://linktr.ee/amanchahar](https://linktr.ee/amanchahar)
+- 👨‍💻 My Portfolio is available at [https://linktr.ee/amanchahar](https://linktr.ee/amanchahar)
 
 - 📝 I regularly write articles on [https://medium.com/@amanchahar123](https://medium.com/@amanchahar123)
 
