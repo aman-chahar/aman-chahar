@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Portfolio is available at [https://linktr.ee/amanchahar](https://linktr.ee/amanchahar)
 
-- 📝 I write articles on [https://medium.com/@amanchahar123](https://medium.com/@amanchahar123)
+- 📝 I write articles on [https://medium.com/@amanchahar](https://medium.com/@amanchahar)
 
 - 💬 Ask me about **AIML, NLP, Data Science, Python, Power BI, Data Analytics, Machine Learning, Deep Learning, Computer Vision, Neural Networks, Generative AI, LLMs, Diffusion Models,  BERT, ChatGPT, YOLO, Prompts, LangChain**
 
