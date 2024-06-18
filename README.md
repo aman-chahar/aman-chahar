@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-chahar&label=Profile%20views&color=0e75b6&style=flat" alt="aman-chahar" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, AWS and Generative AI**
+- 🌱 I’m currently learning **AWS, AI Agents, and Generative AI**
 
 - 👨‍💻 My Portfolio is available at [https://linktr.ee/amanchahar](https://linktr.ee/amanchahar)
 
 - 📝 I write articles on [https://medium.com/@amanchahar](https://medium.com/@amanchahar)
 
-- 💬 Ask me about **AIML, NLP, Data Science, Python, Power BI, Data Analytics, Machine Learning, Deep Learning, Computer Vision, Neural Networks, Generative AI, LLMs, Diffusion Models,  BERT, ChatGPT, YOLO, Prompts, LangChain**
+- 💬 Ask me about **Chatbot, AIML, NLP, Data Science, Python, Power BI, Data Analytics, Machine Learning, Deep Learning, Computer Vision, Neural Networks, Generative AI, LLMs, Diffusion Models,  BERT, ChatGPT, YOLO, Prompts, LangChain, Crew AI,LLM Fine-Tuning**
 
 - 📫 How to reach me **amanchahar123@gmail.com**
 
