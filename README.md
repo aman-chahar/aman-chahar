@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">A Data Science Enthusiastic from India</h3>
+<h3 align="center">An AI Engineer from Braj Bhoomi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-chahar&label=Profile%20views&color=0e75b6&style=flat" alt="aman-chahar" /> </p>
 
